@@ -1,4 +1,4 @@
-# TiCh Batch Versioning
+# TiCh Batch Versioning [![Build Status](https://travis-ci.org/parnanzio/tich-batch-versioning.png?branch=feature-travis)](https://travis-ci.org/parnanzio/tich-batch-versioning)
 
 Batch update versioning of all the items in your `tich.cfg` file
 
